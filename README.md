@@ -1,8 +1,6 @@
  <h1 align="center">BAU COOP4423 - Week6 </h3>
  
  
- ![Latest Version](https://img.shields.io/badge/latestVersion-1.0-yellow)
-<br>
 ![Supported Platforms](https://img.shields.io/badge/Supported_Platforms:-Native_Android_-orange)
 
 
